@@ -6,6 +6,7 @@ inputs:
     description: 'whether to cache or not'
     required: false
     default: 'true'
+
 runs:
   using: 'composite'
   steps:
