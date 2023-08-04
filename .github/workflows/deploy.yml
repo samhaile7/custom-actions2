@@ -80,5 +80,5 @@ jobs:
   information:
     runs-on: ubuntu-latest
     steps:
-    - name: Run custon action
-      uses: ./.github/actions/amazonS3
+      - name: Run custon action
+        uses: ./.github/actions/amazonS3
