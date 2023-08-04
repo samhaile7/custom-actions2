@@ -81,4 +81,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Run custon action
-      uses: ./.github/actions/deploy-s3-javascript
+      uses: ./.github/actions/amazonS3
